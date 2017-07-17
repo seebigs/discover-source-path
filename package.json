@@ -1,0 +1,18 @@
+{
+  "name": "discover-source-path",
+  "version": "1.0.0",
+  "description": "Find the source file path of the current function being executed",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/automated"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seebigs/discover-source-path.git"
+  },
+  "author": "Chris Bigelow <seebigswork@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seebigs/discover-source-path/issues"
+  }
+}
