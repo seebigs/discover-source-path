@@ -1,6 +1,6 @@
 {
   "name": "discover-source-path",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Find the source file path of the current function being executed",
   "main": "index.js",
   "scripts": {
