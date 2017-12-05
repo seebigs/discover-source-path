@@ -10,13 +10,13 @@
  */
 
 function discoverSourcePath (stackDrop) {
-    let error = new Error();
+    var error = new Error();
 
     if (typeof stackDrop === 'undefined') {
         stackDrop = 2;
     }
 
-    let err = error.stack.split('\n');
+    var err = error.stack.split('\n');
 
     for (var i = 0; i < stackDrop; i++) {
         err.shift();

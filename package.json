@@ -4,7 +4,7 @@
   "description": "Find the source file path of the current function being executed",
   "main": "index.js",
   "scripts": {
-    "test": "node test/automated"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
